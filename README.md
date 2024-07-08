@@ -10,10 +10,10 @@ fscan 的免杀版本
 
 ![image-20240708093949690](/image/1720402906585.jpg)
 
-![image-20240708093954467](C:\Users\susu\AppData\Roaming\Typora\typora-user-images\image-20240708093954467.png)
+![image-20240708093954467](/image/1720402918440.jpg)
 
-![image-20240708093958352](C:\Users\susu\AppData\Roaming\Typora\typora-user-images\image-20240708093958352.png)
+![image-20240708093958352](/image/1720402922061.jpg)
 
-![image-20240708094001651](C:\Users\susu\AppData\Roaming\Typora\typora-user-images\image-20240708094001651.png)
+![image-20240708094001651](/image/1720402924525.jpg)
 
-![image-20240708094011205](C:\Users\susu\AppData\Roaming\Typora\typora-user-images\image-20240708094011205.png)
+![image-20240708094011205](/image/1720402927017.jpg)
