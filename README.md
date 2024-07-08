@@ -8,7 +8,7 @@ fscan 的免杀版本
 
 免杀效果
 
-![image-20240708093949690](C:\Users\susu\AppData\Roaming\Typora\typora-user-images\image-20240708093949690.png)
+![image-20240708093949690](/image/1720402906585.jpg)
 
 ![image-20240708093954467](C:\Users\susu\AppData\Roaming\Typora\typora-user-images\image-20240708093954467.png)
 
